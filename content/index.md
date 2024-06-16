@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Hi. My Name is Rishi
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is meant to be my personal portfolio [[Read Me]]
